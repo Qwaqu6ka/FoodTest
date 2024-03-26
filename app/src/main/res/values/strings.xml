@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFoodRome4</string>
+
+    <string name="error_result_message">Не удалось загрузить данные. Попробуйте ещё раз</string>
+    <string name="try_again">Попробовать ещё</string>
+    <string name="price">от %1$d р</string>
+</resources>
